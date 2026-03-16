@@ -140,6 +140,10 @@ export default {
                        Levels must have some sort of Good gameplay. Im not adding levels that have absolute horrible gameplay.
                     </p>
                     <p>
+                    Levels cannot be copy and pasted, and cannot be a buffed verison. it has to have different gameplay of some sort.
+                    </p>
+                    <p>
+                    Levels have to be atleast 5 seconds long and maximum is 1 minute
                 </div>
             </div>
         </main>
