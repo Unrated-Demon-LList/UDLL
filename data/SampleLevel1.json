@@ -1,18 +1,18 @@
 {
-    "id": 119000369,
-    "name": "Kaidyn Challenge",
-    "author": "Nephroid",
-    "creators": "Nephroid",
-    "verifier": "NephroidGD",
-    "verification": "#",
+    "id": 122189205,
+    "name": "",
+    "author": "Classical",
+    "creators": "Classical",
+    "verifier": "Classical",
+    "verification": "https://www.youtube.com/watch?v=pn642pT2iy8",
     "percentToQualify": "100",
     "Verison": "2.2",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Nephroid",
+            "link": "#",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
             "user": "Sample_Victor_2",
