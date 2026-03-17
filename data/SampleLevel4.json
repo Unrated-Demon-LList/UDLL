@@ -9,4 +9,16 @@
     "Verison": "2.2",
     "records": [
         {
-          
+          "user": "Nephroid",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koshi",
+            "link": "https://youtu.be/xOECYFEDHt8",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
