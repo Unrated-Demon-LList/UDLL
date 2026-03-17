@@ -1,16 +1,16 @@
 {
-    "id": 131253750,
-    "name": "Luh Timmy",
-    "author": "Nephroid",
-    "creators": "Nephroid",
-    "verifier": "Nephroid",
-    "verification": "#",
+    "id": 135894710,
+    "name": "Fred",
+    "author": "Classical",
+    "creators": "Classical",
+    "verifier": "Classical",
+    "verification": "https://www.youtube.com/watch?v=oX-ptC8sP3U",
     "percentToQualify": "100",
     "Verison": "2.2",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Nephroid",
+            "link": "",
             "percent": 100,
             "hz": 360
         },
