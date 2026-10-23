@@ -8,11 +8,19 @@
     "percentToQualify": "100",
     "Verison": "2.2",
     "records": [
-        {
-            "user": "Nephroid",
-            "link": "#",
+         {
+            "user": "",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
+        {
+            "user": "",
+            "link": "https://youtu.be/xOECYFEDHt8",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
         
             
