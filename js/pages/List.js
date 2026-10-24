@@ -52,18 +52,18 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ verison || '2.2' }}</p>
                         </li>
                     </ul>
                      </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ ldm || 'N/A' }}</p>
                         </li>
                     </ul> </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ FPS || '240' }}</p>
                         </li>
                     </ul> </li>
                         <li>
@@ -122,7 +122,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count. And you must have split audio tracks
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -144,6 +144,9 @@ export default {
                     </p>
                     <p>
                     Levels have to be atleast 5 seconds long and maximum is 40 minutes
+                     </p>
+                    <p>
+                    Completion Has to be in update 2.2 And must have cheat indictator
                 </div>
             </div>
         </main>
