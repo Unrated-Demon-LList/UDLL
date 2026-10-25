@@ -52,18 +52,18 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ verison || '2.2' }}</p>
+                            <p>{{ verison. || '' }}</p>
                         </li>
                     </ul>
                      </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ ldm || 'N/A' }}</p>
+                            <p>{{ LDM.copy || '' }}</p>
                         </li>
                     </ul> </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ FPS || '240' }}</p>
+                            <p>{{ FPS. || '' }}</p>
                         </li>
                     </ul> </li>
                         <li>
