@@ -143,7 +143,7 @@ export default {
                     Levels cannot be copy and pasted, and cannot be a buffed verison. it has to have different gameplay of some sort.
                     </p>
                     <p>
-                    Levels have to be atleast 5 seconds long and maximum is 40 minutes
+                    Levels have to be atleast 5 seconds long and maximum is 40 minutes and have a maximum cps of 13
                      </p>
                     <p>
                     Completion Has to be in update 2.2 And must have cheat indictator
