@@ -9,13 +9,13 @@
     "Verison": "2.2",
     "records": [
         {
-            "user": "nobody",
+            "user": "",
             "link": "",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "nobody",
+            "user": "",
             "link": "nothing",
             "percent": 100,
             "hz": 240
