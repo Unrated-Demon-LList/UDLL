@@ -17,8 +17,8 @@
         {
             "user": "nobody",
             "link": "nothing",
-            "percent": "nothing",
-            "hz":"240",
+            "percent": 240
+            "hz": 240
         }
     ]
 }
