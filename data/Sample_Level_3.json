@@ -14,4 +14,11 @@
             "percent": 100,
             "hz": 360
         },
-       
+       {
+            "user": "nobody"
+            "link": "nothing"
+            "percent": 100
+            "hz": 240
+        }
+    ]
+}
