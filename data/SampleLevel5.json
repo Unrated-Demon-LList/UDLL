@@ -9,17 +9,16 @@
     "Verison": "2.2",
     "records": [
         {
-            "user": "nobody"
-            "link": "nothing",
+            "user": "nobody",
+            "link": "",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "nobody"
-            "link": "nothing"
+            "user": "nobody",
+            "link": "nothing",
             "percent": 100,
             "hz": 240
         }
     ]
 }
-        
