@@ -12,13 +12,13 @@
             "user": "nobody",
             "link": "",
             "percent": 100,
-            "hz": 
+            "hz": 240
         },
         {
             "user": "nobody",
             "link": "nothing",
             "percent": 100,
-            "hz": 
+            "hz": 240
         }
     ]
 }
