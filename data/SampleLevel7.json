@@ -1,24 +1,25 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 1",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 151241134,
+    "name": "TNC HELL",
+    "author": "Incious",
+    "creators": ["Incious"],
+    "verifier": "Incious",
+    "verification": "https://www.youtube.com/watch?v=t7pJ086Fl4w",
     "percentToQualify": "100",
     "Verison": "2.2",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "",
+            "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "",
+            "link": "",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
+
