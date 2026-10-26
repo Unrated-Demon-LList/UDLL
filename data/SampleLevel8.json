@@ -2,7 +2,7 @@
     "id": 57436521,
     "name": "Country Girl",
     "author": "Nephroid",
-    "creators": ["Nephroid & Mythical"],
+    "creators": ["Nephroid,Mythical"],
     "verifier": "Nephroid",
     "verification": "https://www.youtube.com/watch?v=jS_njX49B7w",
     "percentToQualify": "100",
@@ -16,7 +16,7 @@
         },
         {
             "user": "",
-            "link": "",
+            "link": "nothing",
             "percent": 100,
             "hz": 120
         }
