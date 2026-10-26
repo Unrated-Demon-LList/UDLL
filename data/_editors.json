@@ -1,16 +1,16 @@
 [
     {
-        "role": "owner",
+        "role": "Owner",
         "name": "Nephroid",
         "link": "https://www.youtube.com/@NephroidGMD"
     },
     {
-        "role": "admin",
+        "role": "Admin",
         "name": "Spodar",
         "link": "https://www.youtube.com/channel/UCwbSrDKJGJJPOdV-36ZfBRw"
     },
     {
-        "role": "helper",
+        "role": "Helper",
         "name": "List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },

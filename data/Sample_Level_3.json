@@ -1,10 +1,10 @@
 {
-    "id": 119000369,
-    "name": "Kaidyn Challenge",
+    "id": 57436521,
+    "name": "Country Girl",
     "author": "Nephroid",
-    "creators": "Nephroid",
+    "creators": ["Nephroid,Mythical"],
     "verifier": "Nephroid",
-    "verification": "nothing",
+    "verification": "https://www.youtube.com/watch?v=jS_njX49B7w",
     "percentToQualify": "100",
     "Verison": "2.2",
     "records": [
@@ -12,14 +12,20 @@
             "user": "",
             "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
             "user": "",
             "link": "nothing",
             "percent": 100,
-            "hz": 240
+            "hz": 120
         }
     ]
 }
+
+
+
+
+
+
 
